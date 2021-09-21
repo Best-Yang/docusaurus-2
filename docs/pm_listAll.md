@@ -19,7 +19,7 @@ x
 ### 请求头
 | 名称          | 类型   | 必填 | 描述                                                         |
 | ------------- | ------ | ---- | ------------------------------------------------------------ |
-| Authorization | string | 是   | 值格式："TB `access_token`" 示例值："TB TbTestAccessKeyId:JuMYM0eWev33g1H4yZguXP026HCnaorOGQC3nAh4rU4=" |
+| Authorization | string | 是   | 值格式："TB `access_token`"  \n示例值："TB TbTestAccessKeyId:JuMYM0eWev33g1H4yZguXP026HCnaorOGQC3nAh4rU4=" |
 | Content-Type  | string | 是   | 固定值："application/json"                    |
 | Date          | string | 是   | 请求时间，仅支持GMT格式                                      |
 
