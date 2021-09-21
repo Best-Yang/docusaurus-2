@@ -4,7 +4,7 @@ module.exports = {
     Features: ['mdx'],
     签名验证: ['signature'],
     API: [
-      'pm_listAll', 
+      'pm_listAll'
       // '获取指定项目基本信息',
       // '获取指定项目日志',
       // '获取总列表_指定工厂_未结束项目_限自研商品',
