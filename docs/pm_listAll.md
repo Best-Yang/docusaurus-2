@@ -19,8 +19,8 @@ x
 ### 请求头
 | 名称          | 类型   | 必填 | 描述                                                         |
 | ------------- | ------ | ---- | ------------------------------------------------------------ |
-| Authorization | string | 是   | 值格式："Bearer `access_token`" 示例值："Bearer t-7f1bcd13fc57d46bac21793a18e560" |
-| Content-Type  | string | 是   | 固定值："application/json; charset=utf-8"                    |
+| Authorization | string | 是   | 值格式："TB `access_token`" 示例值："TB TbTestAccessKeyId:JuMYM0eWev33g1H4yZguXP026HCnaorOGQC3nAh4rU4=" |
+| Content-Type  | string | 是   | 固定值："application/json"                    |
 | Date          | string | 是   | 请求时间，仅支持GMT格式                                      |
 
 ### 请求体
