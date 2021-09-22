@@ -4,7 +4,6 @@ title: 签名验证
 sidebar_label: 签名
 ---
 
-# 签名
 > YYYY-MM-DD
 
 ## 介绍
