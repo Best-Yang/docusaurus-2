@@ -5,11 +5,11 @@ module.exports = {
     签名验证: ['signature'],
     API: [
       'pm_listAll'
-      // '获取指定项目基本信息',
-      // '获取指定项目日志',
-      // '获取总列表_指定工厂_未结束项目_限自研商品',
-      // '获取指定项目物料列表_限自研商品',
-      // '获取指定物料详情'
+      'pm_queryBaseInfoForPrj',
+      'pm_queryLogForPrj',
+      'bom_listAllValidForTb',
+      'bom_queryTbBomListForPrj',
+      'bom_queryBomItemForId'
     ],
     // 传出WEBHOOK: [
     //   '物料到货事件'
