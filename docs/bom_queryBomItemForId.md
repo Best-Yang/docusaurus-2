@@ -1,7 +1,7 @@
 ---
 id: bom_queryBomItemForId
-title: 指定项目物料列表_限自研商品
-sidebar_label: 指定项目物料列表_限自研商品
+title: 指定物料详情
+sidebar_label: 指定物料详情
 ---
 
 > YYYY-MM-DD
