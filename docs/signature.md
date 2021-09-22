@@ -40,5 +40,4 @@ sidebar_label: 签名
 参数说明如下：$path 格式为 /aaaa/bbbb 例如 open.baidu.com/open/third?appid=123456 中 `/open/third`注意：增加在请求头信息中
 
 `CONTENT-TYPE`：请求内容的类型，函数计算的类型是`application/json`。
-
 `DATE`：此次操作的时间，不能为空，时间格式为GMT。
