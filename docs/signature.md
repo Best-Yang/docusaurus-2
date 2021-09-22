@@ -6,7 +6,7 @@ sidebar_label: 签名
 
 > YYYY-MM-DD
 
-## 介绍
+### 介绍
 > 为保证API及数据的安全，API调用仅支持`HTTPS`协议，且在调用API时，TB服务器会对每个API请求通过签名（Signature）进行身份验证。
 
 > 对于每一个请求，TB服务器会根据请求头部的`Authorization`字段来校验是否合法。第三方须使用与TB服务端一致的签名算法才能通过验证，对于未包含签名字段或者签名错误的请求，函数计算将会返回`HTTP 403`错误。`hmac-sha256`：需要以您的AccessKey Secret为Key。
