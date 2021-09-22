@@ -12,7 +12,7 @@ x
 ### 基本信息
 | 基本        |                                                    |
 | ----------- | -------------------------------------------------- |
-| HTTP URL    | https://open.bianxingjimu.com/api/v1/bom/queryTbBomListForPrj |
+| HTTP URL    | https://open.bianxingjimu.com/api/v1/bom/bom/queryBomItemForId |
 | HTTP Method | POST                                               |
 
 ### 请求头
