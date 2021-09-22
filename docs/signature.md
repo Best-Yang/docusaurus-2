@@ -4,7 +4,7 @@ title: 签名验证
 sidebar_label: 签名
 ---
 
-> YYYY-MM-DD HH
+> YYYY-MM-DD
 
 ### 介绍
 > 为保证API及数据的安全，API调用仅支持`HTTPS`协议，且在调用API时，TB服务器会对每个API请求通过签名（Signature）进行身份验证。
