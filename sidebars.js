@@ -4,7 +4,7 @@ module.exports = {
     Features: ['mdx'],
     签名验证: ['signature'],
     API: [
-      'pm_listAll'
+      'pm_listAll',
       'pm_queryBaseInfoForPrj',
       'pm_queryLogForPrj',
       'bom_listAllValidForTb',
